@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">endSem</string>
+
+    <string-array name="activities_texts">
+
+        <item>Finish android project</item>
+        <item>Write my documentation</item>
+        <item>Study for my cat</item>
+        <item>Pay my rent</item>
+        <item>Prepare for the lab</item>
+        <item>Watch my hero academia</item>
+        <item>Create the MMS video</item>
+        <item>Attend CC online class</item>
+        <item>Pay my fee</item>
+
+    </string-array>
+
+    <string name="Already_have_an_account">
+        Already Have an account?
+        <font color= "#170D71">Login</font>
+    </string>
+
+    <string name="Dont_have_An_Account">
+        Dont Have an account?
+        <font color= "#170D71">Register</font>
+    </string>
+
+
+</resources>

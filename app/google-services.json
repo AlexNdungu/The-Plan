@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "750542674218",
+    "firebase_url": "https://the-plan-1146c-default-rtdb.firebaseio.com",
+    "project_id": "the-plan-1146c",
+    "storage_bucket": "the-plan-1146c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750542674218:android:8dbc0160729f36a7cb2653",
+        "android_client_info": {
+          "package_name": "com.example.endsem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750542674218-13b9cctttqjil71fdcuobt18j257ckgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI4aVsa46PSOytEaZTE3AY7kLWS9lX45U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750542674218-13b9cctttqjil71fdcuobt18j257ckgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
